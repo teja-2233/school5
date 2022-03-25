@@ -1,0 +1,21 @@
+#video{
+    width:100%;
+    height:100%;
+    border:none;
+    text-align: center;
+}
+.movies_head{
+    width:100%;
+    padding:6px 22px;
+    margin-bottom:15px ;
+    border-radius:10px;
+  }
+  .movies_text span{
+    color:orange;
+  }
+  .movies_head i{
+    float:right;
+}
+#contact iframe{
+    width: 100%;
+}
